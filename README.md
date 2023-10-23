@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konsavv&label=Profile%20views&color=0e75b6&style=flat" alt="konsavv" /> </p>
 
-- 🌱 I’m currently learning **Vue3, Nuxt3**
+- 🔭 I’m currently working on **Vue3, Nuxt3**
+
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **ksavvidi@hotmail.com**
 
